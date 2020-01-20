@@ -69,7 +69,7 @@ element.removeEventListener("click", handler, false);
 
 ### 동적으로 element 만들기/삭제
 
-### createElement 
+#### createElement 
 
 > **document.createElement(tagName)**
 >
@@ -92,7 +92,7 @@ document.body.appendChild(newDiv);
 
 이벤트 핸들러 때와 같이 참조를 하고 있어야 삭제할 수 있다.
 
-### innerHTML
+#### innerHTML
 
 > **element.innerHTML = '';**
 
@@ -109,7 +109,7 @@ document.body.innerHTML = "<div><p>HELLO ROOKIES</p></div>";
 
 ​		  => string을 만든 후에 세팅 해야한다.
 
-### textContent
+#### textContent
 
 > **element.textContent = '';**
 
