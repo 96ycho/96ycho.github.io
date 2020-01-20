@@ -7,7 +7,7 @@ tags: [study]
 comments: true
 ---
 
-# 1/17 html&css basic
+# 1/17 Html&CSS basic
 
 - 웹의 구성 요소
   - html : 구조와 내용. 내용 서술하고 정의

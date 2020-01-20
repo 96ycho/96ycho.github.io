@@ -7,7 +7,7 @@ tags: [study]
 comments: true
 ---
 
-# 1/17 vi tutorial
+# 1/17 Vi Tutorial
 
 ### vi 명령어 정리
 
