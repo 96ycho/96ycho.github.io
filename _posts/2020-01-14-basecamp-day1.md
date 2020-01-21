@@ -3,7 +3,7 @@ layout: post
 title: Base Camp Day1
 description: >
   1/13 베이스 캠프 1일차 기록
-tags: [project]
+tags: [diary]
 comments: true
 ---
 
