@@ -2,7 +2,7 @@
 layout: post
 title: MooNMail Project [QA/버그] 전달, 답장 기능 미동작 
 description: >
-  3/4 MooNMail Project [QA/버그] 전달, 답장 기능 미동작 
+  3/4 MooNMail Project [QA/버그] 
 tags: [diary]
 comments: true
 ---
