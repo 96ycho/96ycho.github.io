@@ -2,12 +2,12 @@
 layout: post
 title: TDD With JUnit4
 description: >
-  2/16 TDD With JUnit4
+  2/10 TDD With JUnit4
 tags: [study]
 comments: true
 ---
 
-# TDD With JUnit4
+# 2/10 TDD With JUnit4
 
 ## TDD
 
