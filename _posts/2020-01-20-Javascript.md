@@ -246,3 +246,8 @@ mdn 사이트 : https://developer.mozilla.org/ko/
 
 - 웹플랫폼 -> API와 DOM매뉴에서 element와 node파트 확인
 - 웹 기술에 대한 거이 모든 정보를 얻을 수 있다.
+
+
+
+#### 교육 내용 출처: NHN 기술교육 - 1/20 JavaScript 기초 (김성호 책임)
+
